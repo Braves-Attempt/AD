@@ -1,0 +1,57 @@
+{
+  "title": "广告内容测试数据",
+  "description": "这是一个示例广告数据文件",
+  "last_updated": "2024-01-15",
+  "ads": [
+    {
+      "id": "ad_001",
+      "title": "新产品发布 - 智能手表",
+      "description": "全新智能手表，支持健康监测、运动追踪和智能提醒功能。采用最新技术，续航长达7天。",
+      "image_url": "https://via.placeholder.com/300x200/007bff/ffffff?text=智能手表",
+      "link_url": "https://example.com/smartwatch",
+      "tags": ["科技", "健康", "可穿戴设备"],
+      "price": "¥1299",
+      "valid_until": "2024-12-31"
+    },
+    {
+      "id": "ad_002", 
+      "title": "春季促销 - 笔记本电脑",
+      "description": "高性能笔记本电脑，适合办公和娱乐。Intel i7处理器，16GB内存，512GB SSD存储。",
+      "image_url": "https://via.placeholder.com/300x200/28a745/ffffff?text=笔记本电脑",
+      "link_url": "https://example.com/laptop",
+      "tags": ["电脑", "办公", "促销"],
+      "price": "¥5999",
+      "valid_until": "2024-03-31"
+    },
+    {
+      "id": "ad_003",
+      "title": "在线课程 - Python编程",
+      "description": "从零开始学习Python编程，适合初学者。包含实战项目和证书。名师授课，终身学习。",
+      "image_url": "https://via.placeholder.com/300x200/ffc107/000000?text=Python课程",
+      "link_url": "https://example.com/python-course",
+      "tags": ["教育", "编程", "在线学习"],
+      "price": "¥299",
+      "valid_until": "2024-06-30"
+    },
+    {
+      "id": "ad_004",
+      "title": "健身器材 - 跑步机",
+      "description": "家用跑步机，静音设计，可折叠收纳。支持多种运动模式，让您在家也能享受专业健身。",
+      "image_url": "https://via.placeholder.com/300x200/dc3545/ffffff?text=跑步机",
+      "link_url": "https://example.com/treadmill",
+      "tags": ["健身", "运动", "家用"],
+      "price": "¥3999",
+      "valid_until": "2024-05-31"
+    },
+    {
+      "id": "ad_005",
+      "title": "美食外卖 - 新用户优惠",
+      "description": "新用户专享优惠券，满50减20。精选美食，30分钟内送达。现在注册立享优惠！",
+      "image_url": "https://via.placeholder.com/300x200/17a2b8/ffffff?text=美食外卖",
+      "link_url": "https://example.com/food-delivery",
+      "tags": ["美食", "外卖", "优惠"],
+      "price": "满50减20",
+      "valid_until": "2024-02-29"
+    }
+  ]
+}

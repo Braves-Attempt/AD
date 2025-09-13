@@ -1,1 +1,17 @@
-
+{
+  "ads": [
+    {
+      "id": 1,
+      "type": "text",
+      "content": "🎉 新版本上线！功能更强大，性能更稳定，立即下载体验！",
+      "link": "https://your-product-website.com/download"
+    },
+    {
+      "id": 2,
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/your-username/your-repo/main/images/new_feature.png",
+      "link": "https://your-product-website.com/new-feature-details",
+      "alt_text": "新功能展示"
+    }
+  ]
+}
